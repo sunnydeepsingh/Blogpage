@@ -1,0 +1,38 @@
+html {
+    font-size: 62.5%;
+  }
+
+div{
+    max-width: 1140px;
+    margin: 0 auto;
+    line-height: 1.5;
+    border: 2px solid black;
+    padding: 2rem 5rem 2rem 5rem;
+}
+
+img{
+    
+    width: 100%;
+}
+h1,h2,h3{
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+h1{
+    font-size: 5.6rem;
+}
+h2{  
+    font-size: 4.2rem;
+}
+h3{ 
+    font-size: 3.1rem;
+}
+p
+{
+    font-family: 'PT Serif', 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+}
+ul{  
+    font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+}
